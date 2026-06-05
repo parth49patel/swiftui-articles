@@ -11,7 +11,8 @@ Open the folder, run the project, and follow along.
 
 | # | Project | Article |
 |---|---------|---------|
-| 01 | [Custom ViewModifiers](./CustomViewModifiers) | [Stop Repeating Yourself in SwiftUI — Use Custom ViewModifiers](https://medium.com/@4parth9/stop-repeating-yourself-in-swiftui-use-custom-viewmodifiers-56a8b4774ae5) |
+| 01 | [Custom ViewModifiers](./CustomViewModifiers) | [Stop Repeating Yourself in SwiftUI — Use Custom ViewModifiers](https://medium.com/@4parth9/stop-repeating-yourself-in-swiftui-use-custom-viewmodifiers-56a8b4774ae5) |  
+| 02 | [Onboarding Flow](./OnboardingFlow) | [How to Design an Effective SwiftUI Onboarding Experience in 4 Simple Steps](https://medium.com/@4parth9/how-to-design-an-effective-swiftui-onboarding-experience-in-4-simple-steps-b53a760f7f24) |
 
 ---
 
